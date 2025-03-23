@@ -1,0 +1,70 @@
+# Ignore build and gradle files
+/build/
+/out/
+/*.iml
+.gradle/
+/.idea/
+/local.properties
+/.cxx/
+/*.apk
+/*.aab
+/*.jar
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency caches
+**/node_modules/
+**/.npm/
+**/.yarn/
+
+# Ignore log and crash reports
+*.log
+crashlytics.properties
+fabric.properties
+
+# Ignore environment and sensitive files
+.env
+google-services.json
+app/google-services.json
+android/key.properties
+
+# Ignore ProGuard mappings (for security)
+proguard-rules.pro
+mapping.txt
+
+# Ignore Firebase analytics and debug data
+*.firebase/
+.analytics/
+
+# Ignore test reports
+/test_output/
+*.ec
+*.exec
+*.coverage
+*.hprof
+
+# Ignore JetBrains IDE files
+*.idea/workspace.xml
+*.idea/libraries/
+*.idea/modules.xml
+*.idea/.name
+*.idea/caches
+*.idea/misc.xml
+*.idea/assetsWizardSettings.xml
+
+# Ignore generated assets
+app/build/
+captures/
+gen/
+obj/
+bin/
+
+# Ignore Kotlin/Java build files
+*.class
+*.dex
+*.apk
+*.aab
+*.so
+*.keystore
