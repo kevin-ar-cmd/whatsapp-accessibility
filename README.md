@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 59fea47 (Fix README file structure formatting)
 # **WhatsApp Accessibility Service**  
 
 ## **Overview**  
@@ -10,7 +13,10 @@ This Android application uses **Accessibility Services** to read and save WhatsA
 ✅ **Search, delete, and export messages**.  
 ✅ **Push notifications** for new WhatsApp messages.  
 ✅ **Biometric authentication** (fingerprint/face unlock) for security.  
+<<<<<<< HEAD
 ✅ **Two-factor authentication (2FA)** with **SMS OTP** and **Google Authenticator**.  
+=======
+>>>>>>> 59fea47 (Fix README file structure formatting)
 ✅ **Auto-logout** after inactivity.  
 ✅ **Session timeout alerts** (sound/vibration + push notifications).  
 
@@ -64,3 +70,8 @@ whatsapp-accessibility/
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 59fea47 (Fix README file structure formatting)
